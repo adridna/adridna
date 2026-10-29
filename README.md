@@ -8,27 +8,11 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📊 Linguaggi e Strumenti Principali
 
-**Linguaggi & Frameworks:**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MIPS](https://img.shields.io/badge/MIPS-000000?style=for-the-badge&logo=gnu&logoColor=white)
+### 📊 Linguaggi più usati
 
-**Tools & Environment:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 Statistiche GitHub
-
-![Le mie Statistiche](./profile/stats.svg)
-![Linguaggi più usati](./profile/top-langs.svg)
+<p align="center">
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Linguaggi più usati nei commit" width="48%" />
+  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repository per linguaggio" width="48%" />
+</p>
