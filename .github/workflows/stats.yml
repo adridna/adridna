@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Concede i permessi di scrittura direttamente al job
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -18,8 +18,8 @@ jobs:
 
       - name: Download GitHub Stats Card
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=adridna&show_icons=true&theme=radial" -o profile/stats.svg
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=adridna&layout=compact&theme=radial" -o profile/top-langs.svg
+          curl -s "https://github-readme-stats-fast.vercel.app/api?username=adridna&show_icons=true&theme=radial" -o profile/stats.svg
+          curl -s "https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adridna&layout=compact&theme=radial" -o profile/top-langs.svg
 
       - name: Commit and push changes
         run: |
