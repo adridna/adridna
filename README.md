@@ -30,5 +30,5 @@
 
 ### 📊 Statistiche GitHub
 
-![Statistiche](./profile/stats.svg)
-![Linguaggi](./profile/top-langs.svg)
+![Le mie Statistiche](./profile/stats.svg)
+![Linguaggi più usati](./profile/top-langs.svg)
